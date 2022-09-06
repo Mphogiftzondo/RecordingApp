@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758751564692",
+    "project_id": "recording-app-35617",
+    "storage_bucket": "recording-app-35617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758751564692:android:bb1e906302692a9dc4f581",
+        "android_client_info": {
+          "package_name": "com.mlab.recording"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758751564692-99ofuesl692kpqindpe542vseo4acqct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIM9c64lyOm46JVSBfBjFCOyYYRWInqh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758751564692-99ofuesl692kpqindpe542vseo4acqct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
